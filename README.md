@@ -11,7 +11,7 @@
 
 
 [Log Device Classes]
-![Log Device Classes]([log device classes].png)
+![]([log device classes].png)
 
 
 ## Meta Group
