@@ -3,15 +3,18 @@
 3 categories of data
 ## Profiles
 [Medium]
+
 ![Medium]([medium].png)
 
 
 [UEBA]
+
 ![ueba]([ueba].png)
 
 
 [Log Device Classes]
-![]([log device classes].png)
+
+![log device classes]([log device classes].png)
 
 
 ## Meta Group
