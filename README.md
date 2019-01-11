@@ -3,6 +3,7 @@
 3 categories of data
 ## Profiles
 [Medium]
+
 ![Medium]([medium].png)
 
 [UEBA]
@@ -10,9 +11,11 @@
 ![ueba]([ueba].png)
 
 [Log Device Classes]
+
 ![log device classes]([log%20device%20classes].png)
 
 [Protocols]
+
 ![protocols]([protocols].png)
 
 
