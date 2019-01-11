@@ -1,6 +1,7 @@
-# rsa_nw_investigation_profiles
+#Investigation Profiles
 
-3 categories of data
+Collection of Investigation Profiles, metagroups and columngroups to help organize metadata for investigations
+
 ## Profiles
 [Medium]
 
