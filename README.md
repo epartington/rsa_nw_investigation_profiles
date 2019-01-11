@@ -24,23 +24,38 @@ These are pre-queries that help when you don't remember the name of the service 
 
 ## Meta Groups
 [basic start]
+
 [crypto traffic]
+
 [email investigation]
+
 [filename]
+
 [manual pcap upload]
+
 [outbound http]
 
 ## Column Groups
 [other]
-[outbound http]
-[tftp]
-[ftp]
-[ssl]
-[ssh]
-[smb]
-[securidaccess]
-[rdp]
-[passive-dns]
-[ja3]
-[irc]
 
+[outbound http]
+
+[tftp]
+
+[ftp]
+
+[ssl]
+
+[ssh]
+
+[smb]
+
+[securidaccess]
+
+[rdp]
+
+[passive-dns]
+
+[ja3]
+
+[irc]
